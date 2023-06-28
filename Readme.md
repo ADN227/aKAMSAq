@@ -1,7 +1,7 @@
 # Uso de colas de Azure
 ![](https://akncus.blob.core.windows.net/git/8/K_007.jpg)
 
-Una vez creada la cuenta de almacenamiento, se puede crear una cola dentro de ella desde la sección ``` Almacenamiento de datos > Colas``` del recurso.
+Una vez creada la cuenta de almacenamiento, se puede crear una cola dentro de ella desde la sección **Almacenamiento de datos** > **Colas del recurso**.
 ![](https://akncus.blob.core.windows.net/git/8/K_005.jpg)
 
 ## Agregar mensajes a una cola
